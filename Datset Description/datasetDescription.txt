@@ -1,6 +1,6 @@
 This data was collected during 2005-2006 school year from two Portuguese secondary public school where the paper was published in 2008, So it was recent dataset for that paper.
 
-#DATA COLLECTION AND RESOURCES:
+# DATA COLLECTION AND RESOURCES:
 
 Final version contained 37 questions and it was answered by 788 students
 111 answers were discarded due to lack of identification details
@@ -23,22 +23,22 @@ Important note: the target attribute G3 has a strong correlation with attributes
 
 DATASET DESCRIPTION:
 
-#Data Set Characteristics:  
+# Data Set Characteristics:  
 Multivariate
 
-#Area:
+# Area:
 Social
 
-#Attribute Characteristics:
+# Attribute Characteristics:
 Integer
 
-#Date Donated
+# Date Donated
 2014-11-27
 
-#Associated Tasks:
+# Associated Tasks:
 Classification, Regression
 
-#Missing Values?
+# Missing Values?
 N/A
 
 Among all the 33 attributes, 
@@ -93,8 +93,6 @@ ATTRIBUTE INFORMATION:
 
 
 In mathematics dataset, there are 33 features along with 395 instances.
-Figure [Diye dicchi attach kore]
 
 In Portugues language dataset, there are 649 instances also along with 33 features.
-Figure [Diye dicchi attach kore]
 
